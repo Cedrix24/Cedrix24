@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Cedrix! :)<br><br>Currently I'm writing my bachelor thesis in applied informatics.<br><br>A work as a fullstack web dev, where I'm currently working on an react App to create a website for a tennis school using an backend written in either Java or Python.
+Hi, I'm Cedrix! :)<br><br>Currently I'm writing my bachelor thesis in applied informatics.<br><br>I work as a fullstack web dev, where I'm currently working on an react App to create a website for a tennis school using an backend written in either Java or Python.
 
 
 # 💻 Tech Stack:
