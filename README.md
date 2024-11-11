@@ -2,8 +2,8 @@
 
 🚀 **Current Projects:**
 
-1. **Tennis School Website (ReactJS & Java):**
-   Building a dynamic and responsive website for a tennis school, combining the power of ReactJS for the frontend and Java for robust backend functionality. 🎾
+1. **Tennis School Website (NextJS & Java):**
+   Building a dynamic and responsive website for a tennis school, combining the power of NextJS for the frontend and Java for robust backend functionality. 🎾
 
 2. **Bachelor Thesis - Web Components (VueJs):**
    Currently immersed in my bachelor thesis, where I delve into the fascinating world of Web Components using VueJs. Exploring ways to enhance web development through modular and reusable components. 📚
